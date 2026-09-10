@@ -1,0 +1,225 @@
+{
+  "original_transcription": "prompt_transcription.txt",
+  "hits_json": "top3_matches_20260910_225051.json",
+  "canonical_cast_file": "canonical_cast.json",
+  "canonical_cast_names": [
+    "Amanda",
+    "Casey",
+    "Rachel",
+    "Jaime",
+    "Lincoln1",
+    "ZEKE",
+    "CHARLIE",
+    "DESI"
+  ],
+  "timestamp": "20260910_230943",
+  "drafts": [
+    {
+      "title": "Timeline Troubles",
+      "themes_used": [
+        "historical impact",
+        "moral consequences",
+        "time travel"
+      ],
+      "keywords_used": [
+        "holocaust",
+        "jesus",
+        "time"
+      ],
+      "draft": "In a room filled with scripts and sketches, Amanda ponders the complexity of intertwining timelines and their moral implications.",
+      "dialogue": [
+        {
+          "character": "Amanda",
+          "line": "I'm thinking about Wednesday.",
+          "cast_type": "canonical"
+        },
+        {
+          "character": "WEDNESDAY",
+          "line": "Wednesday, Project 22.",
+          "cast_type": "visiting"
+        },
+        {
+          "character": "Amanda",
+          "line": "I'd like to see that one as 90 minutes as well.",
+          "cast_type": "canonical"
+        },
+        {
+          "character": "WEDNESDAY",
+          "line": "Even though I often think of that one as three seasons, too.",
+          "cast_type": "visiting"
+        },
+        {
+          "character": "Amanda",
+          "line": "I'm starting to think I just want to do them all as 90 minutes.",
+          "cast_type": "canonical"
+        },
+        {
+          "character": "WEDNESDAY",
+          "line": "Just some version of it just to keep it all nice and simple and short.",
+          "cast_type": "visiting"
+        },
+        {
+          "character": "Amanda",
+          "line": "I mean, it might end up being an AI version anyway, so it probably will be.",
+          "cast_type": "canonical"
+        },
+        {
+          "character": "WEDNESDAY",
+          "line": "But Thursday, pretty much likewise. Let's try a 90 minute version.",
+          "cast_type": "visiting"
+        }
+      ],
+      "visiting_characters": [
+        {
+          "name": "WEDNESDAY",
+          "justification": "Source: \"Wednesday, Project 22.\"",
+          "evidence_quote": "Wednesday, Project 22."
+        }
+      ],
+      "canonical_characters": [
+        "Amanda"
+      ],
+      "rank": 1,
+      "source_file": "git-aichive/2025_10_12_14_52_57_transcription.txt",
+      "topics_hit": [
+        "historical impact",
+        "moral consequences",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "holocaust",
+        "jesus",
+        "time"
+      ],
+      "characters_detected": [],
+      "visiting_from_source": [
+        {
+          "name": "I",
+          "kind": "speaker",
+          "evidence": "I'm thinking about Wednesday.",
+          "confidence": 1.0
+        },
+        {
+          "name": "WEDNESDAY",
+          "kind": "addressee",
+          "evidence": "Wednesday, Project 22.",
+          "confidence": 1.0
+        }
+      ],
+      "dialogue_count": 8,
+      "speaker_count": 2,
+      "worst_speaker_run": 1,
+      "validation_issues": [],
+      "dropped_lines": [],
+      "retried": false,
+      "quality_ok": true
+    },
+    {
+      "title": "Timeline Troubles",
+      "themes_used": [
+        "historical impact",
+        "moral consequences",
+        "time travel"
+      ],
+      "keywords_used": [
+        "holocaust",
+        "jesus",
+        "time"
+      ],
+      "draft": "The warden sets up a challenge, a test of wills, a confrontation of destinies. In the heart of the prison, the air is thick with the weight of history.",
+      "dialogue": [
+        {
+          "character": "NARRATOR",
+          "line": "I'm thinking about Wednesday. Wednesday, Project 22.",
+          "cast_type": "visiting"
+        }
+      ],
+      "visiting_characters": [],
+      "canonical_characters": [],
+      "rank": 2,
+      "source_file": "git-aichive/2025_10_12_14_52_57_transcription_1.txt",
+      "topics_hit": [
+        "historical impact",
+        "moral consequences",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "holocaust",
+        "jesus",
+        "time"
+      ],
+      "characters_detected": [],
+      "visiting_from_source": [
+        {
+          "name": "I",
+          "kind": "speaker",
+          "evidence": "I'm thinking about Wednesday.",
+          "confidence": 1.0
+        }
+      ],
+      "dialogue_count": 1,
+      "speaker_count": 1,
+      "worst_speaker_run": 1,
+      "validation_issues": [
+        "only 1 lines (need 4+)"
+      ],
+      "dropped_lines": [],
+      "retried": false,
+      "quality_ok": false
+    },
+    {
+      "title": "The Empty Store",
+      "themes_used": [
+        "historical impact",
+        "moral consequences",
+        "time travel"
+      ],
+      "keywords_used": [
+        "jesus",
+        "jews",
+        "time"
+      ],
+      "draft": "Amanda stands before an empty 99 cent store, her mind racing with thoughts of the past and future.",
+      "dialogue": [],
+      "visiting_characters": [],
+      "canonical_characters": [],
+      "rank": 3,
+      "source_file": "git-aichive/2025_12_07_11_15_26_transcription.txt",
+      "topics_hit": [
+        "historical impact",
+        "moral consequences",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "jesus",
+        "jews",
+        "time"
+      ],
+      "characters_detected": [],
+      "visiting_from_source": [
+        {
+          "name": "I",
+          "kind": "speaker",
+          "evidence": "I walked into that empty 99 cent store one time.",
+          "confidence": 1.0
+        }
+      ],
+      "dialogue_count": 0,
+      "speaker_count": 0,
+      "worst_speaker_run": 0,
+      "validation_issues": [
+        "only 0 lines (need 4+)",
+        "only 0 speakers (need 1+)"
+      ],
+      "dropped_lines": [
+        {
+          "character": "Amanda",
+          "reason": "too long (45 words)",
+          "line": "I walked into that empty 99 cent store one time. Almost did, man. The door was u"
+        }
+      ],
+      "retried": false,
+      "quality_ok": false
+    }
+  ]
+}
